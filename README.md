@@ -6,11 +6,13 @@ Due to the high impact of the fast-evolving fields of machine learning and deep 
 
 ### Download Data Set and Word Embedding Models 
 
-* Word embedding models:
-https://drive.google.com/drive/u/0/folders/1s45RzKDMLwml3RoTjC08o0hBu1QVFaSX
+#### Word embedding models:
+* [FastText 300](https://drive.google.com/drive/folders/1s45RzKDMLwml3RoTjC08o0hBu1QVFaSX?usp=sharing)
 
-* Data set:
-https://drive.google.com/drive/folders/1cRCkL4S-swtS5TwppwaQvjvHspbBoUvA?usp=sharing
+#### Data set:
+* [Lankadeepa data set](https://drive.google.com/file/d/1e9xRaKoK3wgulCj7uF1mSblV2UB4D95B/view?usp=sharing)
+* [GossipLanka data set](https://drive.google.com/file/d/1Y24oCg0oWINSo5Om7cJWBy9f03cMjGzX/view?usp=sharing)
+
 
 ## Authors
 * [Lahiru Senevirathne](https://github.com/LahiruSen)

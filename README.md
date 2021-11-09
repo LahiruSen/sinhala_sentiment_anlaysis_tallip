@@ -1,4 +1,4 @@
-# sinhala_sentiment_anlaysis_tallip
+# Sinhala Sentiment Anlaysis using Deep Learning
 This repository contains code for paper "Sentiment Analysis for Sinhala Language using DeepLearning Techniques"
 
 ## Abstract of the Paper 
@@ -20,3 +20,13 @@ Due to the high impact of the fast-evolving fields of machine learning and deep 
 * [Binod Karunarathne](https://github.com/binodmx/)
 * [Udyogi Munasinghe](https://github.com/udyogicx)
 * Dr Surangika Ranathunga
+
+For now, cite our following papers if the work find useful:
+```
+@article{senevirathne2020sentiment,
+  title={Sentiment Analysis for Sinhala Language using Deep Learning Techniques},
+  author={Senevirathne, Lahiru and Demotte, Piyumal and Karunanayake, Binod and Munasinghe, Udyogi and Ranathunga, Surangika},
+  journal={arXiv preprint arXiv:2011.07280},
+  year={2020}
+}
+```
